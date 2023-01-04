@@ -1,3 +1,8 @@
+
+.actions {
+  text-align: center;
+}
+
 .login {
   width: 90%;
   max-width: 40rem;
@@ -41,10 +46,6 @@
 .control.invalid input {
   border-color: red;
   background: #fbdada;
-}
-
-.actions {
-  text-align: center;
 }
 
 @media (min-width: 768px) {
